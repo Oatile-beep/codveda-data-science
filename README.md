@@ -1,10 +1,11 @@
-# Codveda Technologies — Data Science Internship
+# Data Science Portfolio Projects
 
-Full task submissions for the Codveda Technologies Data Science Internship — all three levels (Basic, Intermediate, Advanced).
+A collection of self-directed data science projects covering the full pipeline — from data collection to modeling — across three progressive skill levels (Basic, Intermediate, Advanced).
 
-**Intern:** Thapelo Oatile Tlhomelang
-**Duration:** 22/07/2026 – 22/08/2026
+**Author:** Thapelo Oatile Tlhomelang  
 **Program:** BSc Computer Science & Statistics, University of Zululand
+
+
 
 ---
 
